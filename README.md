@@ -1,1 +1,3 @@
-# Mini-projet-Business-Intelligence
+## Business Intelligence pour un Superstore
+
+Ce projet démontre l'impact de la Business Intelligence (BI) dans la transformation des données brutes en informations exploitables pour optimiser les performances commerciales et logistiques d'un superstore. À partir d'un fichier CSV détaillant les ventes, expéditions, clients, produits et opérations logistiques, nous avons créé des rapports analytiques permettant d'analyser les tendances de vente, la rentabilité des produits et les performances logistiques. L'objectif est d'identifier des opportunités d'amélioration en fournissant des insights clairs et précis grâce à des outils de BI avancés.
